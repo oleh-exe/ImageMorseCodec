@@ -6,7 +6,7 @@
 ![Stand with Ukraine](https://img.shields.io/badge/Stand%20with-Ukraine-blue?style=flat&logo=flag-ukraine)
 
 **Turn images into Morse code — and back again!** 📡✨  
-Image Morse Codec is a lightweight PHP library that lets you encode every pixel of a PNG or JPEG image into Morse code and save it as a text file. You can also decode such files to reconstruct the original image.
+Image Morse Codec is a lightweight PHP library that encodes every pixel of a PNG or JPEG image into Morse code and saves it to a text file. You can also decode such files to reconstruct the original image.
 
 ⚠️ **Warning:** Processing large images may require a lot of RAM!
 
