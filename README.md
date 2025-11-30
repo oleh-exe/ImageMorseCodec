@@ -3,7 +3,8 @@
 ![PHP Version](https://img.shields.io/badge/PHP-%3E=8.2-blue.svg?logo=php)
 ![PHP GD Extension](https://img.shields.io/badge/GD%20extension-required-orange)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)
-![Stand with Ukraine](https://img.shields.io/badge/Stand%20with-Ukraine-blue?style=flat&logo=flag-ukraine)
+[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Made in Ukraine](https://img.shields.io/badge/made_in-Ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 
 **Turn images into Morse code — and back again!** 📡✨  
 Image Morse Codec is a lightweight PHP library that encodes every pixel of a PNG or JPEG image into Morse code and saves it to a text file. You can also decode such files to reconstruct the original image.

@@ -7,9 +7,8 @@ error_log
 *.tmp
 *~
 
-# IDE Files (PhpStorm/IntelliJ)
+# IDE Files (PhpStorm)
 .idea/
-*.iml
 
 # IDE Files (VS Code)
 .vscode/
